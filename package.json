@@ -1,6 +1,4 @@
-git add .
-git commit -m "Fix dependencies"
-git push origin <branch_name>
+
 {
   "name": "course-builder",
   "version": "1.0.0",
