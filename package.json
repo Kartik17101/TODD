@@ -11,6 +11,7 @@
     "web": "expo start --web",
     "build": "expo build:web",
     "eject": "expo eject"
+  }
   },
   "dependencies": {
     "@dnd-kit/core": "^5.0.0",
