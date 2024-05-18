@@ -14,7 +14,7 @@
   "dependencies": {
     "@dnd-kit/core": "^5.0.0",
     "@dnd-kit/sortable": "^5.1.0",
-    "@dnd-kit/utilities": "^6.0.0",  // Update to the correct version
+    "@dnd-kit/utilities": "^6.0.0",  
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/stack": "^6.1.1",
     "expo": "~48.0.0",
