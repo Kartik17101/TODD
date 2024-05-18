@@ -32,4 +32,10 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "resoluti
+  "resolutions": {
+    "react": "18.0.0"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  }
+}
